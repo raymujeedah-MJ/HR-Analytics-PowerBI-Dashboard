@@ -17,9 +17,7 @@ An interactive Power BI dashboard that analyses employee attrition, demographics
 - [Dashboard Features](#-dashboard-features)
 - [Key Insights](#-key-insights)
 - [Recommendations](#-recommendations)
-- [Repository Structure](#-repository-structure)
 - [How to Use](#-how-to-use)
-- [Author](#-author)
 
 ---
 
@@ -116,20 +114,6 @@ The company lost **174 of 1,200 employees (14.5%)**. Leadership wants to know:
 5. **Strengthen onboarding and mentoring** for employees in their first few years.
 6. **Collect exit-interview data** to dig into "Personal Reasons", the largest category.
 
-## 📁 Repository Structure
-```
-hr-analytics-powerbi/
-│
-├── README.md
-├── data/
-│   └── HR_POWERBI_DATASET.xlsx
-├── powerbi/
-│   └── HR_POWER_BI.pbix
-└── images/
-    ├── dashboard.jpg
-    └── data_table_view.jpg
-```
-
 ## 🚀 How to Use
 1. Clone or download this repository
    ```bash
@@ -139,12 +123,5 @@ hr-analytics-powerbi/
 3. Open `powerbi/HR_POWER_BI.pbix`
 4. If prompted, point the data source to `data/HR_POWERBI_DATASET.xlsx` (Home → Transform data → Data source settings)
 5. Use the department buttons and age group slicers to explore
-
-## 👤 Author
-**Olagoke Mujeedah**
-
-- LinkedIn: (https://www.linkedin.com/)
-- GitHub: [@raymujeedah-MJ](https://github.com/)
-- Email: raymujeedah@gmail.com
 
 ⭐ If you found this project useful, please give it a star!
