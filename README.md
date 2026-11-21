@@ -1,6 +1,7 @@
 # HR-Analytics-PowerBI-Dashboard
 Interactive Power BI dashboard analyzing employee headcount, demographics, and attrition drivers.
-# 📊 HR Analytics Dashboard (Power BI)
+## Dashboard Preview
+![HR Power BI Dashboard](Dashboard/HR%20power%20bi%20dashboard.jpg)
 
 An interactive Power BI dashboard that analyses employee attrition, demographics and workforce structure for a 1,200-employee Nigerian company, helping HR identify **who is leaving, from where, and why**.
 
