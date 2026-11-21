@@ -5,7 +5,6 @@ Interactive Power BI dashboard analyzing employee headcount, demographics, and a
 
 An interactive Power BI dashboard that analyses employee attrition, demographics and workforce structure for a 1,200-employee Nigerian company, helping HR identify **who is leaving, from where, and why**.
 
-![HR ANALYTIC DASHBOARD](Dashboard/HR power bi dashboard.jpg)
 ---
 
 ## 📌 Table of Contents
